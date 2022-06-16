@@ -1,6 +1,6 @@
-# app_flutter
+# Colorful Help Mobile
 
-A new Flutter project.
+This application was developed with the aim of helping people with visual impairments in daily tasks of recognizing texts, similar objects and other aspects that involve visual differentiation, which would be difficult to perform only using touch techniques, without asking for help from third parties.
 
 ## Getting Started
 
