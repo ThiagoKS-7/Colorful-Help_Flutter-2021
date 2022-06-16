@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+// const primary = Color(0xFF007dff);
+const primary = Color(0xff155bc4);
+const mainColor = Color(0xFF000000);
+const secondary = Color(0xffdadbef);
+const firstBgPrimary = Color(0xff88c1fc);
+const firstCardShadow = Color(0xe54dd9c6);
+const firstCardPrimary = Color(0xe55cada0);
+const scndCardPrimary = Color(0xff1e9c85);
+const scndCardShadow = Color(0xe54dd9c6);
+const bottomBarBgColor = Color(0xFFEEEEEE);
+const inActiveIcon = Color(0xFFABBEEC);
+const upColor = Color(0xFF4bc46d);
+const darkUpColor = Color(0xff047f21);
+const cardColor = Color(0xff37077e);
+const downColor = Colors.red;
+const stayColor = Colors.black87;
+const shadowColor = Colors.black87;
+const bottomBarColor = Color(0xFFF8FCFD);
+const glassColor = Color(0xFFEEEEEE);
